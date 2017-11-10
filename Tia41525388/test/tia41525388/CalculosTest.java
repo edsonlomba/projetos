@@ -65,6 +65,7 @@ public class CalculosTest {
         assertEquals(0.5, c.calc(digitos, 8), 0.0);
         assertEquals(38400, c.calc(digitos, 9), 0.0);
         assertEquals(600, c.calc(digitos, 10), 0.0);
+        /*Novo Comentario*/
     }
     
 }
