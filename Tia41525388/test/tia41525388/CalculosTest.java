@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author 41525388
+ * @author Edson Lomba - 41525388
  */
 public class CalculosTest {
     
